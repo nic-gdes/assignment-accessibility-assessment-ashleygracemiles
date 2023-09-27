@@ -172,7 +172,9 @@ article {
   color: #fff;
 }
 
-.related-title {}
+.related-title {
+  font-size: 1.5rem;
+}
 
 .comments {
   background-color: #edebe3;
