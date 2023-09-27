@@ -254,17 +254,15 @@ article {
   flex: 5;
 }
 
-/*
-
-img,
-audio {
-  display: block;
-  margin: 0 auto;
-}
-
 audio {
   width: 500px;
 }
 
-
-*/
+footer {
+  height: 5rem;
+  font-weight: 600;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  background-color: #132a13;
+}
